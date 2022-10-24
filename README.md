@@ -3,12 +3,18 @@
     <img src="https://media.giphy.com/media/FAFo1M7EC4gRZ4HETH/giphy.gif" width=100>
     <br>
     <img src="https://visitor-badge.glitch.me/badge?page_id=Meghs1424&style=flat-square&color=0088cc" width=80 alt=""/>
-    <h1>Hey there, I'm Megha!!!</h1>
+    <h1>Hey, this is a human called "Megha"!!!</h1>
   </div>
   <div id="contacts">
     <img src="https://img.shields.io/badge/Gmail-D14836?tyle=flat&logo=gmail&logoColor=white" height=30 alt="Gmail"/>
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" height=30 alt="LinkedIn"/>
-    <img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" height=30 alt="Twitter"/>
+    <!--- <img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" height=30 alt="Medium"/> --->
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=white"/ height=30 alt="Kaggle">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black" height=30 alt="Leetcode"/>
+    <img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=flat&logo=Codechef&logoColor=white" height=30 alt="Codechef"/>
+    <img src="https://img.shields.io/badge/Goodreads-372213?style=flat&logo=goodreads&logoColor=white" height=30 alt="Goodreads"/>
+    <!--- <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" height=30 alt="Twitter"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" height=30 alt="Instagram"/> --->
   </div>
 </div>
 
