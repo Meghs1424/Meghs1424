@@ -34,24 +34,24 @@
     <h3>About Me :</h3> 
     <ul>
       <li>
-        Final Year Student at VIT Chennai
-        <img src="https://media.giphy.com/media/QytPgSOH9QoYFKBTbh/giphy.gif" width=30 />
+        Final Year Student at VIT Chennai &#127891;
+        <!--- <img src="https://media.giphy.com/media/QytPgSOH9QoYFKBTbh/giphy.gif" width=30 /> --->
       </li>
       <li>
         Currently learning Full Stack Development 
         <img src="https://media.giphy.com/media/lRLzrbhmh5pFf4jOga/giphy.gif" width=30 />
       </li>
       <li>
-        Find Cloud Compuitng and Data Analytics COOL!
-        <img src="https://media.giphy.com/media/3rgXBsWN1mtYprBmA8/giphy.gif" width=70 />
+        Find Cloud Compuitng and Data Analytics COOL! 
+        <img src="https://media.giphy.com/media/3rgXBsWN1mtYprBmA8/giphy.gif" width=50 />
       </li>
       <li>
-        Reach me : <a href="mailto:meghs.official@gmail.com"/>meghs.official@gmail.com</a>
-        <img src="https://media.giphy.com/media/nv6bOexvEyVV50U4Qz/giphy.gif" width=40 />
+        Reach me : <a href="mailto:meghs.official@gmail.com"/>meghs.official@gmail.com</a> &#128232;
+        <!--- <img src="https://media.giphy.com/media/nv6bOexvEyVV50U4Qz/giphy.gif" width=40 /> --->
       </li>
       <li>
-        Here's my <a href="https://drive.google.com/file/d/1fEIR8u22srcUkEe5NPOhLd_badrkHGCj/view?usp=sharing">Resume</a>
-        <img src="https://media.giphy.com/media/j0B5B1mW0M5osRKcrq/giphy.gif" width=40 />
+        Here's my <a href="https://drive.google.com/file/d/1fEIR8u22srcUkEe5NPOhLd_badrkHGCj/view?usp=sharing">Resume</a> &#128220;
+        <!--- <img src="https://media.giphy.com/media/j0B5B1mW0M5osRKcrq/giphy.gif" width=40 /> --->
       </li>
     </ul>
     <h3>MORE About Me :</h3>
