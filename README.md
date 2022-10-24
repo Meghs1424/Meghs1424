@@ -29,7 +29,7 @@
 </div>
 
 <div id="main_section">
-  <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"/> 
+  <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width=400 /> 
   <div id="info">
     <h3>About Me :</h3> 
     <ul>
