@@ -94,7 +94,7 @@
       <li>
         <h3>&#128202; What Github thinks I do?</h3>
         
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Meghs1424&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Meghs1424&show_icons=true&card_width=400)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meghs1424&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
       </li>
       <li>
