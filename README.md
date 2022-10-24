@@ -56,7 +56,24 @@
     </ul>
     <h3>MORE About Me :</h3>
     <ul>
-      <li></li>
+      <li>Always up for experimenting new frameworks</li>
+      <li>Addicted to COFFEE &#127861;</li>
+      <li>Read a lot like A LOT!</li>
+      <li>If our interests align, HIT ME UP!!</li>
+    </ul>
+  </div>
+  <div>
+    <h3>About Work :</h3>
+    <ul>
+    <li>
+      <h3>&#128736; What I work with?</h3>
+    </li>
+    <li>
+      <h3>&#128202; What Github thinks I do?</h3>
+    </li>
+    <li>
+      <h3>How consistent one can be... &#128293;</li>
+    </li>
     </ul>
   </div>
 </div>
