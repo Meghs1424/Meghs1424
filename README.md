@@ -85,6 +85,7 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" height=40 />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height=40 />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height=40 />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" height=40 />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height=40 />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height=40 />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height=40 />
@@ -94,8 +95,8 @@
       <li>
         <h3>&#128202; What Github thinks I do?</h3>
         
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Meghs1424&show_icons=true&card_width=400)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meghs1424&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Meghs1424&show_icons=true&card_width=400&hide_border=true&theme=merko)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meghs1424&layout=compact&hide_border=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
       </li>
       <li>
         <h3>How consistent can one be... &#128293;</h3>
