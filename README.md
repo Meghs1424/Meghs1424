@@ -145,14 +145,18 @@
       </li>
       <li>
         <h3>&#128202; What Github thinks I do?</h3>
+        <div align="center">
         
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Meghs1424&show_icons=true&card_width=400&hide_border=false&theme=merko)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meghs1424&layout=compact&hide_border=false&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+        </div>
       </li>
       <li>
         <h3>How consistent can one be... &#128293;</h3>
-      
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Meghs1424&theme=merko&hide_border=false)](https://git.io/streak-stats)
+        <div align="center">
+        
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Meghs1424&theme=merko&hide_border=false&)](https://git.io/streak-stats)
+        </div>
       </li>
     </ul>
   </div>
