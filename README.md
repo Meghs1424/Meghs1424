@@ -20,6 +20,9 @@
     <a href="https://www.codechef.com/users/meghs1424">
       <img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=flat&logo=Codechef&logoColor=white" height=30 alt="Codechef"/>
     </a>
+    <a href="https://www.hackerrank.com/meghasinghdelhi1">
+      <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=flat&logo=HackerRank&logoColor=white" height=30 alt="HackerRank"/>
+    </a>
     <a href="https://www.goodreads.com/user/show/30818155-meghs">
       <img src="https://img.shields.io/badge/Goodreads-372213?style=flat&logo=goodreads&logoColor=white" height=30 alt="Goodreads"/>
     </a>
