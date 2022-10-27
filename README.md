@@ -45,7 +45,7 @@
         Currently learning Full Stack Development 
       </li>
       <li>
-        Find Cloud Compuitng &#9729; and Data Analytics &#128200; COOL! 
+        Find Cloud Computing &#9729; and Data Analytics &#128200; COOL! 
         <!--- <img src="https://media.giphy.com/media/3rgXBsWN1mtYprBmA8/giphy.gif" width=50 /> --->
       </li>
       <li>
