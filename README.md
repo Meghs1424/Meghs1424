@@ -155,7 +155,7 @@
         <h3>How consistent can one be... &#128293;</h3>
         <div align="center">
         
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Meghs1424&theme=merko&hide_border=false&)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Meghs1424&theme=merko&hide_border=false)](https://git.io/streak-stats)
         </div>
       </li>
     </ul>
