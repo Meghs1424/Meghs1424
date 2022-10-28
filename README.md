@@ -121,6 +121,9 @@
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height=40 />
         </a>
+        <a href="https://www.chartjs.org/docs/latest/">
+          <img src="https://raw.githubusercontent.com/Meghs1424/Meghs1424/main/Icons/Chart.js_logo.ico" height=40 />
+        </a>
         <a href="https://releases.jquery.com">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height=40 />
         </a>
@@ -129,6 +132,9 @@
         </a>
         <a href="https://www.djangoproject.com">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height=40 />
+        </a>
+        <a href="https://docs.celeryq.dev/en/stable">
+          <img src="https://github.com/Meghs1424/Meghs1424/blob/main/Icons/Celery_logo.png" height=40 />
         </a>
         <a href="https://www.mysql.com">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height=40 />
