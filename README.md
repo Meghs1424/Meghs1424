@@ -153,7 +153,7 @@
         <h3>&#128202; What Github thinks I do?</h3>
         <div align="center">
         
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Meghs1424&show_icons=true&card_width=400&hide_border=false&theme=merko&include_all_commits=true&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Meghs1424&show_icons=true&card_width=400&hide_border=false&theme=merko)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meghs1424&layout=compact&hide_border=false&theme=merko&lang_count=8)](https://github.com/anuraghazra/github-readme-stats)
         </div>
       </li>
